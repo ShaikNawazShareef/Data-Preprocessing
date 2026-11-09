@@ -153,3 +153,9 @@ The dataset contains information about residential properties in Bengaluru, incl
 ## 🚀 Conclusion
 
 This practical demonstrates different techniques for handling missing values using Pandas. These techniques help clean and prepare the Bengaluru House Data dataset for further data analysis and Machine Learning applications.
+
+## 👨‍💻 Author
+
+**Nawaz Shareef Shaik**
+
+GitHub: https://github.com/ShaikNawazShareef
